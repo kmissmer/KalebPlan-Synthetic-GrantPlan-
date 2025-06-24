@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+seaborn
+numpy
+matplotlib
+scipy
+statsmodels
+xgboost
+psycopg
+dotenv
